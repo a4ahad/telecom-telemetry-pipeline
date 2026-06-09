@@ -3,6 +3,11 @@
 ![Data Architecture](https://img.shields.io/badge/Architecture-Medallion_Lakehouse-cyan)
 ![Docker Supported](https://img.shields.io/badge/Docker-Supported-blue?logo=docker)
 
+![Fleet Profiling](picture/Fleet%20Profiling.png)
+![Streamlit App UI](picture/StreamlitAppUI.png)
+![Streamlit App UI 2](picture/StreamlitAppUI2.png)
+![Streamlit App UI](picture/qStreamlitAppUI.png)
+
 
 # ⚡ Telecom Telemetry Ingestion Pipeline & NOC Dashboard
 
