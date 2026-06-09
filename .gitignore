@@ -1,0 +1,14 @@
+# Virtual Environment
+venv/
+.venv/
+__pycache__/
+.streamlit/
+
+# Data Lakehouse local storage
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# OS specific files
+.DS_Store
