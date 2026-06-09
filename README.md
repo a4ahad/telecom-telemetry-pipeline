@@ -1,3 +1,9 @@
+![Python Version](https://img.shields.io/badge/python-3.12-blue)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-v3.5+-orange?logo=apachespark)
+![Data Architecture](https://img.shields.io/badge/Architecture-Medallion_Lakehouse-cyan)
+![Docker Supported](https://img.shields.io/badge/Docker-Supported-blue?logo=docker)
+
+
 # ⚡ Telecom Telemetry Ingestion Pipeline & NOC Dashboard
 
 An enterprise-grade, end-to-end data engineering platform that ingests, transforms, profiles, and serves massive streams of cellular and network device telemetry. Built using a **Medallion Lakehouse Architecture**, this system processes over 500,000 concurrent network logs in under a minute using localized multi-threaded Apache Spark workers, exposing the resulting gold-layer metrics through a high-performance Network Operations Center (NOC) dashboard.
